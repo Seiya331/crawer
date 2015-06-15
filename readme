@@ -1,0 +1,16 @@
+#log4js
+参考 http://blog.fens.me/nodejs-log4js/
+
+http://blog.csdn.net/linminqin/article/details/17188259
+http://blog.csdn.net/youbl/article/details/32708609
+http://m.blog.csdn.net/blog/hfty290/42843737
+#豆瓣爬虫
+http://blog.fens.me/nodejs-crawler-douban/
+
+
+#promise
+http://www.html5rocks.com/zh/tutorials/es6/promises/
+http://wiki.commonjs.org/wiki/Promises
+http://www.infoq.com/cn/news/2011/09/js-promise
+
+https://github.com/petkaantonov/bluebird/blob/master/API.md#reducefunction-reducer--dynamic-initialvalue---promise

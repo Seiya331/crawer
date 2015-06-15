@@ -1,0 +1,498 @@
+[
+  {
+    "url": "http://www.scs.gov.cn/",
+    "name": "国家公务员局"
+  },
+  {
+    "url": "http://www.mohrss.gov.cn/",
+    "name": "人力资源和社会保障部"
+  },
+  {
+    "url": "http://www.gov.cn/",
+    "name": "中国政府网"
+  },
+  {
+    "url": "http://www.cpta.com.cn/Desktop.aspx?PATH=rsksw/sy",
+    "name": "中国人事考试网"
+  },
+  {
+    "url": "http://www.bjrbj.gov.cn/bjpta/",
+    "name": "北京人事考试网"
+  },
+  {
+    "url": "http://www.bjp.gov.cn/",
+    "name": "北京人事人才信息网"
+  },
+  {
+    "url": "http://www.bjrc.com/",
+    "name": "北京人才网"
+  },
+  {
+    "url": "http://www.bjld.gov.cn/",
+    "name": "北京人社局"
+  },
+  {
+    "url": "http://www.tjkpzx.com/",
+    "name": "天津人事考试网"
+  },
+  {
+    "url": "http://www.tjkpzx.com/",
+    "name": "天津人事信息网"
+  },
+  {
+    "url": "http://www.tj.lss.gov.cn/",
+    "name": "天津劳动保障网"
+  },
+  {
+    "url": "http://www.tj.lss.gov.cn/",
+    "name": "天津人社局"
+  },
+  {
+    "url": "http://www.hebpta.com.cn/",
+    "name": "河北人事考试网"
+  },
+  {
+    "url": "http://www.hebhrs.com/",
+    "name": "河北人力资源服务网"
+  },
+  {
+    "url": "http://www.hbrsrc.com.cn/",
+    "name": "河北人事人才网"
+  },
+  {
+    "url": "http://www.he.lss.gov.cn/",
+    "name": "河北省人社厅"
+  },
+  {
+    "url": "http://www.sxpta.com/",
+    "name": "山西人事考试网"
+  },
+  {
+    "url": "http://www.sx.hrss.gov.cn/",
+    "name": "山西省人社厅"
+  },
+  {
+    "url": "http://www.sxsgwy.gov.cn/",
+    "name": "山西省公务员局"
+  },
+  {
+    "url": "http://www.shanxigov.cn/",
+    "name": "山西省人民政府"
+  },
+  {
+    "url": "http://www.jsrsks.gov.cn/",
+    "name": "江苏人事考试网"
+  },
+  {
+    "url": "http://www.jshrss.gov.cn/sy2011/index.html",
+    "name": "江苏省人社厅"
+  },
+  {
+    "url": "http://www.jshrss.gov.cn/jssgwyj/",
+    "name": "江苏省公务员局"
+  },
+  {
+    "url": "http://www.jshrss.gov.cn/rsrcfww/",
+    "name": "江苏人事人才服务网"
+  },
+  {
+    "url": "http://www.apta.gov.cn/index.php",
+    "name": "安徽人事考试网"
+  },
+  {
+    "url": "http://www.ah.hrss.gov.cn/DEF,1",
+    "name": "安徽省人社厅"
+  },
+  {
+    "url": "http://www.ah.gov.cn/",
+    "name": "安徽省政府网"
+  },
+  {
+    "url": "http://www.ahgkw.org/",
+    "name": "安徽公务员网"
+  },
+  {
+    "url": "http://www.rsks.sdrs.gov.cn/",
+    "name": "山东人事考试网"
+  },
+  {
+    "url": "http://www.sdrs.gov.cn/",
+    "name": "山东人事信息网\r\n"
+  },
+  {
+    "url": "http://www.sdhrss.gov.cn/cm/",
+    "name": "山东省人社厅"
+  },
+  {
+    "url": "http://www.sdrsrcpx.cn/",
+    "name": "山东人事人才网"
+  },
+  {
+    "url": "http://www.spta.gov.cn/",
+    "name": "上海职业能力考试院"
+  },
+  {
+    "url": "http://www.12333sh.gov.cn/",
+    "name": "上海市人社网\r\n"
+  },
+  {
+    "url": "http://222.68.19.231/indexWebAction.action",
+    "name": "上海人才服务网"
+  },
+  {
+    "url": "http://www.21cnhr.gov.cn/",
+    "name": "21世纪人才网"
+  },
+  {
+    "url": "http://www.zjks.com/",
+    "name": "浙江人事考试网"
+  },
+  {
+    "url": "http://www.zjhrss.gov.cn/",
+    "name": "浙江省人社厅"
+  },
+  {
+    "url": "http://www.zjhrss.gov.cn/col/col2/index.html",
+    "name": "浙江省公务员局"
+  },
+  {
+    "url": "http://www.zjrc.com/",
+    "name": "浙江人才网"
+  },
+  {
+    "url": "http://www.jxpta.com/",
+    "name": "江西人事考试网"
+  },
+  {
+    "url": "http://hrss.jiangxi.gov.cn/",
+    "name": "江西省人社厅"
+  },
+  {
+    "url": "http://www.jiangxi.gov.cn/ztbd/gwy/",
+    "name": "江西公务员热线"
+  },
+  {
+    "url": "http://www.jxjy.gov.cn/index.asp",
+    "name": "江西就业信息网"
+  },
+  {
+    "url": "http://www.fjpta.com/",
+    "name": "福建人事考试网"
+  },
+  {
+    "url": "http://www.fjrs.gov.cn/",
+    "name": "福建省人事厅"
+  },
+  {
+    "url": "http://www.fjgwy.net/",
+    "name": "福建公务员培训中心"
+  },
+  {
+    "url": "http://www.fjkl.gov.cn/",
+    "name": "福建公务员考试录用网"
+  },
+  {
+    "url": "http://www.hunanpta.com/",
+    "name": "湖南人事考试网"
+  },
+  {
+    "url": "http://www.hnrst.gov.cn/",
+    "name": "湖南劳动和社会保障厅"
+  },
+  {
+    "url": "http://www.hunan.gov.cn/",
+    "name": "湖南省人民政府网"
+  },
+  {
+    "url": "http://www.hnrst.gov.cn/",
+    "name": "湖南人事编织网"
+  },
+  {
+    "url": "http://www.hbrsks.gov.cn/",
+    "name": "湖北人事考试院"
+  },
+  {
+    "url": "http://www.hb.hrss.gov.cn/",
+    "name": "湖北省人社厅"
+  },
+  {
+    "url": "http://www.hbkspx.com/",
+    "name": "湖北人事培训网"
+  },
+  {
+    "url": "http://www.hubei.gov.cn/",
+    "name": "湖北省人民政府"
+  },
+  {
+    "url": "http://www.hnrsks.com/",
+    "name": "河南人事考试网"
+  },
+  {
+    "url": "http://www.ha.hrss.gov.cn/",
+    "name": "河南省人社厅"
+  },
+  {
+    "url": "http://ha.osta.org.cn/",
+    "name": "河南省职业资格工作网"
+  },
+  {
+    "url": "http://www.hnzc.gov.cn/",
+    "name": "河南职称网"
+  },
+  {
+    "url": "http://www.scpta.gov.cn/",
+    "name": "四川人事考试网"
+  },
+  {
+    "url": "http://www.scpx.gov.cn/",
+    "name": "四川人事人才培训网\r\n"
+  },
+  {
+    "url": "http://www.sc.hrss.gov.cn/",
+    "name": "四川人社厅"
+  },
+  {
+    "url": "http://www.id028.cn/index.html",
+    "name": "四川人事考试信息网"
+  },
+  {
+    "url": "http://www.cqhrss.gov.cn",
+    "name": "重庆人事考试网"
+  },
+  {
+    "url": "http://www.cqhrss.gov.cn",
+    "name": "重庆市人社厅"
+  },
+  {
+    "url": "http://www.gzpta.gov.cn/",
+    "name": "贵州人事考试网"
+  },
+  {
+    "url": "http://www.gzgov.gov.cn/gzgov/216172782113783808/index.html",
+    "name": "贵州省人民政府"
+  },
+  {
+    "url": "http://www.gzrs.gov.cn/",
+    "name": "贵州人事人才网"
+  },
+  {
+    "url": "http://www.gzrc.gov.cn/",
+    "name": "贵州人才信息网"
+  },
+  {
+    "url": "http://www.ynrsksw.net",
+    "name": "云南人事考试网"
+  },
+  {
+    "url": "http://www.ynrsksw.cn",
+    "name": "云南省考试中心"
+  },
+  {
+    "url": "http://www.ynhrss.gov.cn/",
+    "name": "云南省人社网"
+  },
+  {
+    "url": "http://www.ynhrss.gov.cn/#",
+    "name": "云南省公务员局"
+  },
+  {
+    "url": "http://www.lnrsks.com/",
+    "name": "辽宁人事考试网"
+  },
+  {
+    "url": "http://www.ln.gov.cn/",
+    "name": "辽宁省人民政府"
+  },
+  {
+    "url": "http://www.lnrc.com.cn/",
+    "name": "辽宁人事人才服务网"
+  },
+  {
+    "url": "http://www.ln.hrss.gov.cn/ln/96/tindex.shtml",
+    "name": "辽宁省人社厅"
+  },
+  {
+    "url": "http://www.jlgwy.net/",
+    "name": "吉林公务员考试网"
+  },
+  {
+    "url": "http://www.ln.hrss.gov.cn/ln/96/tindex.shtml",
+    "name": "吉林省人社厅"
+  },
+  {
+    "url": "http://gwyj.jl.gov.cn/",
+    "name": "吉林省公务员局"
+  },
+  {
+    "url": "http://www.jl.gov.cn/",
+    "name": "吉林省人民政府"
+  },
+  {
+    "url": "http://www.gdkszx.com.cn/",
+    "name": "广东人事考试网"
+  },
+  {
+    "url": "http://www.gdhrss.gov.cn/",
+    "name": "广东省人社厅"
+  },
+  {
+    "url": "http://www.gd.gov.cn/",
+    "name": "广东省人民政府网"
+  },
+  {
+    "url": "http://www.gdhrss.gov.cn/",
+    "name": "广东职业培训网"
+  },
+  {
+    "url": "http://www.gxpta.com.cn/",
+    "name": "广西人事考试网"
+  },
+  {
+    "url": "http://www.gx.lss.gov.cn/",
+    "name": "广西劳动和社会保障厅"
+  },
+  {
+    "url": "http://www.gxzf.gov.cn/",
+    "name": "广西政府网"
+  },
+  {
+    "url": "http://www.gxrc.com/",
+    "name": "广西人才网"
+  },
+  {
+    "url": "http://www.hirsks.com/",
+    "name": "海南人事考试网"
+  },
+  {
+    "url": "http://hi.lss.gov.cn/web/default/index.jsp",
+    "name": "海南人事劳动保障厅"
+  },
+  {
+    "url": "http://www.hainan.gov.cn/",
+    "name": "海南省人民政府"
+  },
+  {
+    "url": "http://ea.hainan.gov.cn/",
+    "name": "海南省考试局"
+  },
+  {
+    "url": "http://www.sxrsks.cn/",
+    "name": "陕西人事考试网"
+  },
+  {
+    "url": "http://www.shaanxi.gov.cn/",
+    "name": "陕西省人民政府"
+  },
+  {
+    "url": "http://www.shaanxi.gov.cn/",
+    "name": "陕西省人社厅"
+  },
+  {
+    "url": "http://www.snedu.gov.cn/",
+    "name": "陕西省教育厅"
+  },
+  {
+    "url": "http://www.gsrskw.com",
+    "name": "甘肃人事考试网"
+  },
+  {
+    "url": "http://www.rst.gansu.gov.cn/index.htm",
+    "name": "甘肃省人事厅"
+  },
+  {
+    "url": "http://www.gansu.gov.cn/",
+    "name": "甘肃省人民政府"
+  },
+  {
+    "url": "http://www.gjgwy.net/gsgwy/",
+    "name": "甘肃省公务员局"
+  },
+  {
+    "url": "http://www.xjrsks.com.cn/",
+    "name": "新疆人事考试网"
+  },
+  {
+    "url": "http://www.xinjiang.cn/",
+    "name": "新疆自治区人民政府\r\n"
+  },
+  {
+    "url": "http://www.xjrs.gov.cn/",
+    "name": "新疆人社厅"
+  },
+  {
+    "url": "http://www.xjrs.gov.cn/",
+    "name": "新疆劳动社会保障厅"
+  },
+  {
+    "url": "http://www.qhpta.com/",
+    "name": "青海人事考试网"
+  },
+  {
+    "url": "http://www.qhhrss.gov.cn/",
+    "name": "青海省人社厅"
+  },
+  {
+    "url": "http://www.qh.gov.cn/",
+    "name": "青海省人民政府"
+  },
+  {
+    "url": "http://www.qhrcsc.com/",
+    "name": "青海人事人才网"
+  },
+  {
+    "url": "http://www.nxpta.gov.cn/",
+    "name": "宁夏人事考试网"
+  },
+  {
+    "url": "http://www.nxhrss.gov.cn/",
+    "name": "宁夏人社网"
+  },
+  {
+    "url": "http://www.nx.gov.cn/index.htm",
+    "name": "宁夏回族自治区政府"
+  },
+  {
+    "url": "http://www.nxedu.gov.cn/",
+    "name": "宁夏教育厅"
+  },
+  {
+    "url": "http://www.hljrsks.org.cn",
+    "name": "黑龙江人事考试网"
+  },
+  {
+    "url": "http://www.hl.lss.gov.cn/hljhrss/index.jsp",
+    "name": "黑龙江省人社厅"
+  },
+  {
+    "url": "http://www.rc.com.cn/",
+    "name": "黑龙江人才网"
+  },
+  {
+    "url": "http://www.hlj.gov.cn/",
+    "name": "黑龙江人民政府"
+  },
+  {
+    "url": "http://www.impta.com/",
+    "name": "内蒙古人事考试网"
+  },
+  {
+    "url": "http://www.nmgrc.com/",
+    "name": "内蒙古人事人才网"
+  },
+  {
+    "url": "http://www.nm.hrss.gov.cn/",
+    "name": "内蒙古人社厅"
+  },
+  {
+    "url": "http://www.nmg.gov.cn/",
+    "name": "内蒙古人民政府"
+  },
+  {
+    "url": "http://www.xzjyzdzx.com.cn/",
+    "name": "西藏教育指导中心"
+  },
+  {
+    "url": "http://www.xizang.gov.cn/",
+    "name": "西藏自治区人民政府"
+  }
+]
